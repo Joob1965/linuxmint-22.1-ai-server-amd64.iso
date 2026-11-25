@@ -1,1 +1,5 @@
 *.iso
+build-work/
+release-chunks/
+release-chunks/
+release-chunks/
